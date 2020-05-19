@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "UpdateStockProject"
+    }
+  },
+  "defaultProject": "UpdateStockProject",
+  "cli": {
+    "analytics": false
+  }
 }
